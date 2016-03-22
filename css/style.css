@@ -34,14 +34,14 @@
       float:left;
       height: 20px;
     }
-
+    
     .navigation li a {
       text-decoration: none;
       color:#FFFFFF;
     }
 
     .navigation li:hover {
-      background-color: rgb(179, 179, 165);
+      background-color: rgb(171, 179, 165);
     }
     
     .active {
